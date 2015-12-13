@@ -52,6 +52,9 @@
         },
         "e830879e542fd52ca82f599ce41b6668": {
             "text": "Descargado archivo ZIP: %s (%d bytes)"
+        },
+        "04abd66e622f247f079329fcbc51b97c": {
+            "text": "Por favor tener en cuenta que %s fue un enlace simb\u00f3lico y que se ha transformado en un directorio normal"
         }
     }
 }

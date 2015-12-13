@@ -301,6 +301,96 @@
         },
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Avanzado"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(todos)"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(copiar)"
+        },
+        "cbf08d0edf67562708d7ce679defc030": {
+            "text": "Por favor active la caja para confirmar."
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Plantilla: %s"
+        },
+        "6620d0d6ed9996e374e77091f72102be": {
+            "text": "Antes %s"
+        },
+        "631a909b3eb785b8b3ae6d4d1a0ed886": {
+            "text": "Despu\u00e9s %s"
+        },
+        "c40f632e4b3c69bbd1af89f5c5f5c617": {
+            "text": "No a\u00f1adir"
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Activado"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Desactivado"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Todos"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[vac\u00edo]"
+        },
+        "bcb2ce4355834a060bef50afb9127603": {
+            "text": "Del Sistema"
+        },
+        "e2159a4c36a7a7881992637d1da6e379": {
+            "text": "acceso"
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "Plantilla"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Ajuste"
+        },
+        "f4aa6607ad257caa74e12b30eab4b8c6": {
+            "text": "Sobre Escribir"
+        },
+        "0255524701bd52455b1ae33bf39818ff": {
+            "text": "Eliminar Ajuste"
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "Notas"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Acciones"
+        },
+        "0e26a613a19dbe1752912c253f5b2e37": {
+            "text": "Nombre"
+        },
+        "0e6b389782e160492d4fe3a397e392df": {
+            "text": "Etiqueta"
+        },
+        "995ed8becc596409849c6a652fbf5cd4": {
+            "text": "P\u00e1ginas con contenido"
+        },
+        "ceb446e97d336c84d1f870ce7840e4ba": {
+            "text": "Filas de informaci\u00f3n"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Acceso"
+        },
+        "1cdcfe223f7fb1cc15748a347bf161b2": {
+            "text": "S\u00ed"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Rol"
+        },
+        "904c279e535c872896eab899b55e9c46": {
+            "text": "Ver"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "Editar"
+        },
+        "c869dd452643fae1887833d527dc86d0": {
+            "text": "Esto borrar\u00e1 %d fila de informaci\u00f3n"
+        },
+        "59da98ece56eec26f5f9edd6f051da0b": {
+            "text": "Esto borrar\u00e1 %d filas de informaci\u00f3n."
         }
     }
 }
