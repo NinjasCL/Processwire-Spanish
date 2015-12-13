@@ -103,6 +103,36 @@
         },
         "190dcbcb68a0545eb0e38c4eca2961e0": {
             "text": "Ejemplo: {parent.title} - {title}, {date}"
+        },
+        "1920ec4f46fd3f4962d351c84f69cf7e": {
+            "text": "parent=\/productos\/, template=producto, sort=nombre"
+        },
+        "a9e792488572b1b5316720df20682ad3": {
+            "text": "NOTA: No es compatible con los tipos de campo PageListSelect o Autocomplete"
+        },
+        "b329c0bc717cd35d04a9362fc0d778c2": {
+            "text": "return $page->parent->parent->children(\"name=ubicaciones\")->first()->children();"
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "Elige \"Formato personalizado\" si deseas especificar m\u00faltiples campos, u otros campos que no se ven m\u00e1s arriba."
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Formato para las etiquetas de p\u00e1gina personalizadas"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Detalla uno o m\u00e1s nombres de campos entre {llaves} junto con cualquier caracter adicional, espaciado o puntuaci\u00f3n."
+        },
+        "ebd9ef41cdc1369f55f58b151390de31": {
+            "text": "Algunos tipos de campo pueden requerir opciones de configuraci\u00f3n adicionales. Despu\u00e9s de seleccionar un tipo de campo y guardar los cambios, las opciones adicionales podr\u00edan aparecer bajo \u00e9sta secci\u00f3n."
+        },
+        "3d9e8a4318894ce247ba920c7961d5da": {
+            "text": "A pesar de que esta opci\u00f3n sobre escribe la configuraci\u00f3n de padre y plantilla m\u00e1s arriba, esas configuraciones todav\u00eda son usadas para validaci\u00f3n (de selecciona esas si no deseas ese comportamiento)."
+        },
+        "e8764466585c7e1a106fd67e89ce91c6": {
+            "text": "El c\u00f3digo deber\u00eda retornar un PageArray (Arreglo de P\u00e1ginas), Page (P\u00e1gina) o NULL (Nulo). Si retorna una P\u00e1gina, los hijos de esa P\u00e1gina son usadas como p\u00e1ginas seleccionables. Esto es opcional y si es usado, sobre-escribe los campos de padre\/plantilla\/selector usados m\u00e1s arriba."
+        },
+        "d0188d35124b9f7887cc0d158da64328": {
+            "text": "Si deseas encontrar p\u00e1ginas seleccionables usando un c\u00f3digo en PHP en vez de seleccionar la p\u00e1gina padre o plantilla (m\u00e1s arriba) entonces debes escribir el c\u00f3digo para seleccionar las posibles p\u00e1ginas. Este c\u00f3digo tiene acceso a las variables de API $page y $pages, donde $page se refiere a la p\u00e1gina siendo editada."
         }
     }
 }

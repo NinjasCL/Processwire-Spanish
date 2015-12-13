@@ -64,6 +64,15 @@
         },
         "e0f8c45404ac3252900cc035530cd905": {
             "text": "Orden para los enlaces directos para Plantillas"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "Actualmente no hay plantillas con una relaci\u00f3n padre\/hijo para poder mostrar el enlace \"Crear Nuevo\" ac\u00e1. Para configurar esto, edita cualquier plantilla (Configuraci\u00f3n > Plantillas) y selecciona la pesta\u00f1a \"Familia\"."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Para a\u00f1adir o eliminar plantillas desde estos accesos directos, ver la pesta\u00f1a \"Familia\" en el editor de plantillas."
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Para cambiar el orden de los accesos directos a \"Crear Nuevo\" en p\u00e1ginas o plantillas, arrasta y suelta las opciones en el orden que deseas que est\u00e9n."
         }
     }
 }

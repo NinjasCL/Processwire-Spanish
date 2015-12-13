@@ -19,6 +19,33 @@
         },
         "e5e77ccf470959bc6be60127730908b5": {
             "text": "Gestionar roles de usuario y los permisos que se adjuntan"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Para una descripci\u00f3n detallada de estos permisos, por favor ver la [referencia de permisos](%s)."
+        },
+        "ae9a363b2dfa9181da7ffde8e37813b5": {
+            "text": "tachado"
+        },
+        "c6cc7e92b9fc348360b34c024086432c": {
+            "text": "nombre|descripci\u00f3n"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Agregar hijos a p\u00e1ginas usando esta plantilla"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Crear p\u00e1ginas usando esta plantilla"
+        },
+        "faa5826bce6656df7f63cbeb5b2a85fe": {
+            "text": "Este permiso solo puede ser asignado por ajustes de acceso de plantillas."
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Este permiso es obligatorio para todos los roles."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "aplicable a todas las plantillas editables"
+        },
+        "95c58584c58685c05c1a7cc706416455": {
+            "text": "actualmente ninguna plantilla lo est\u00e1 aplicando"
         }
     }
 }

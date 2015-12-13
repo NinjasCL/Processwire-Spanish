@@ -61,6 +61,144 @@
         },
         "9d2836f3ff372cd7964b90d118710202": {
             "text": "Clase - Alinear Imagen Centro"
+        },
+        "e254a34f3a1001f00adc55aba5552783": {
+            "text": "Arriba:"
+        },
+        "52c9a1be3c0e025b4aa30857a474fea5": {
+            "text": "Izquierda:"
+        },
+        "a547432ab25b830c51cb8a560e4e4f62": {
+            "text": "Descripci\u00f3n de la imagen (atributo alt)"
+        },
+        "f8927cab12c03e7537c735cd3117fba2": {
+            "text": "Enlace a la versi\u00f3n original\/m\u00e1s grande"
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Redimensionar"
+        },
+        "77fb47f76c22aae57cce393488dfee23": {
+            "text": "\u00bfGuardar a \u00e9ste tama\u00f1o?"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Cortar"
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Aplicar"
+        },
+        "2c968d3065f948e7d3e6086c46fdcb68": {
+            "text": "Maximizar\/Ancho completo"
+        },
+        "2d43ecd8d6e1e6e4bd564dd3b15515bc": {
+            "text": "Minimizar\/Adaptar a la pantalla"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "3f67a6c93bc61e24e9ba2a9b47712010": {
+            "text": "Guardar y Reemplazar"
+        },
+        "c87935037e12cf6f0302989fd23bcf37": {
+            "text": "Guardar como una copia"
+        },
+        "575f5f86d2c7ea113c6710c1037c4465": {
+            "text": "Guardando..."
+        },
+        "a7d784a6301793f61c070496d6988d36": {
+            "text": "Actualizando..."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "S\u00ed"
+        },
+        "b1a0a023c5df1b1928e1176fca487837": {
+            "text": "No, usa %s"
+        },
+        "a7ef116917746995c6efb74b77261e93": {
+            "text": "\u00bfSubt\u00edtulo?"
+        },
+        "82e8dd04a8fd3563e8e703b0ab6620d4": {
+            "text": "El texto de subt\u00edtulo es ingresado en el editor despu\u00e9s de insertar la imagen."
+        },
+        "b9869a2e0129f044fca87d4b4f7664f0": {
+            "text": "Texto de subt\u00edtulo ac\u00e1"
+        },
+        "5e470c96fb73af827111043d60af3dbe": {
+            "text": "Rotar a la derecha"
+        },
+        "f3d4b8039718518b45713ae64c12de37": {
+            "text": "Rotar a la izquierda"
+        },
+        "2f96dd2b9788ed9ecbc6f41c312bf455": {
+            "text": "Voltear horizontalmente"
+        },
+        "8373d2f18e29920f78459f34d71040ad": {
+            "text": "Voltear verticalmente"
+        },
+        "d695a4d4ae7091badbe5c20c5b064bac": {
+            "text": "No hay imagenes presentes en la p\u00e1gina. Sube una imagen o selecciona imagenes de otra p\u00e1gina."
+        },
+        "1f98842c354dc496970446bce14f4c50": {
+            "text": "Subir una imagen"
+        },
+        "575acda05a24ee8b606cee4f25024afe": {
+            "text": "No tienes acceso para editar las imagenes en esta p\u00e1gina."
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Cargando..."
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "No se necesitan cambios para las variantes de imagen."
+        },
+        "46ce1195125fefcac9df32093fb8f238": {
+            "text": "No hay cambios"
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Eliminada variante de imagen"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Error al eliminar variante de imagen"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "Eliminar activado"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Cerrar"
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "\u00bfActivar HiDPI\/Retina de forma pre determinada?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Activa esta opci\u00f3n para que el campo HiDPI\/Retina este activado por defacto para todas las nuevas imagenes insertadas."
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "No generar imagenes peque\u00f1as (thumbnail)"
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Valor recomendado:"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Imagen"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Archivo"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Tama\u00f1o"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificado"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Notas"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Creado para ser ubicado dentro de un textarea"
+        },
+        "1c8ce444e68e56abf58edd178ed3bf54": {
+            "text": "Versi\u00f3n recortada"
+        },
+        "a3921791372620c674562de0f5b0f9ed": {
+            "text": "Insertada desde p\u00e1gina:"
         }
     }
 }
