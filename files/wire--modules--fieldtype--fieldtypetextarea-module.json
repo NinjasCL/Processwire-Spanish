@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextarea.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextarea-module",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Tipo de campo de entrada"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "El tipo de campo que se utilizar\u00e1 para recolectar informaci\u00f3n (\u00c1rea de texto es el valor predeterminado). Tenga en cuenta que si cambia esto y env\u00ede, las opciones de configuraci\u00f3n disponibles en la secci\u00f3n de la pesta\u00f1a \"entrada\" pueden cambiar."
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Tipo de contenido"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Desconocido"
+        },
+        "1991cfd60d0287cfb130420da34fcbef": {
+            "text": "Se recomienda la opci\u00f3n de marcado \/ HTML para los campos utilizando editores de texto enriquecido (TinyMCE, CKEditor, etc) y los que contienen HTML. Proporciona filtrado de tiempo de ejecuci\u00f3n adicional para el aseguramiento de la calidad."
+        },
+        "f0a7350231680497c534e592203a3b7b": {
+            "text": "Markup\/HTML con manejo de imagen"
+        },
+        "6579c1fdbe94982347736ad47f0949cb": {
+            "text": "La opci\u00f3n Markup\/HTML (con manejo de imagen opcional) es recomendada para campos con editores de texto enriquecidos (TinyMCE, CKEditor, etc.) y aquellos que contengan HTML. Provee pruebas adicionales en tiempo de ejecuci\u00f3n para asegurar la calidad."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Para mayor informaci\u00f3n sobre las opciones superiores vea [descripci\u00f3n de opciones para tipos de contenido](%s)."
+        },
+        "3e7a86573c428ffd2bf3145cea18514b": {
+            "text": "Elige la opci\u00f3n \"Markup\/HTML con manejo de imagen\" para a\u00f1adir las siguientes pruebas en tiempo de ejecuci\u00f3n:"
+        },
+        "2bc17a9602fb3fd33f9a6561c7b36177": {
+            "text": "1. Llenar todos los campos vac\u00edos con la descripci\u00f3n del archivo - asegura que los cambios en la descripci\u00f3n del archivo sean reflejados en la propiedad \"alt\" de la etiqueta <img>."
+        },
+        "5c84d65097148d9fa9a1be01e38c8f27": {
+            "text": "2.  Autom\u00e1ticamente regenerar el tama\u00f1o de las variantes de imagen que no existan."
+        },
+        "0899ba8ac053ddbc869eac2bf0c9f458": {
+            "text": "3. Eliminar las etiquetas <img> que apunten hacia archivos que no existen."
+        },
+        "a171deaa8f82c6e29796e95126fbd644": {
+            "text": "4. Escribir los errores de imagenes faltantes al archivo de log \"markup-qa-errors\" y enviar una notificaci\u00f3n al usuario administrador del sistema."
+        }
+    }
+}

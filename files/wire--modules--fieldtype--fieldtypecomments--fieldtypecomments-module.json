@@ -1,0 +1,285 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "Pendiente de aprobaci\u00f3n"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Aprobado"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "SPAM! - se borrar\u00e1 automaticamete en %d dias"
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Comentario enviado a: %s"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "Nada- Los comentarios se guardan inmediatamente"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "Todo- Todos los comentarios se deben aprobar"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Solo nuevos- Solo los comentarios de usuarios sin prioridad deben ser aprobados"
+        },
+        "11b3f4cb51868835eff93632baf73f0b": {
+            "text": "Administraci\u00f3n de comentarios"
+        },
+        "2e5d62a652e3bfee772867720b3b000e": {
+            "text": "Notificaci\u00f3n e-mail"
+        },
+        "f1f5c03105f32ee4f4eb3004e2fb49be": {
+            "text": "E-mail para ser informado cuando aparezca un nuevo comentario. Separa las direcciones con comas."
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "\u00bfOrdenar del m\u00e1s reciente al m\u00e1s antiguo?"
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "De forma predeterminada, los comentarios se ordenar\u00e1n cronol\u00f3gicamente (la m\u00e1s antigua a la m\u00e1s reciente). Para invertir comprobar que el comportamiento de esta caja."
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "\u00bfUsar campo del sitio Web en forma de comentario?"
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Cuando se activa, el formulario de comentarios presentaci\u00f3n tambi\u00e9n incluir\u00e1 un campo de p\u00e1gina web."
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "\u00bfRedireccionar despu\u00e9s de escribir comentarios?"
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Cuando se activa, ProcessWire emitir\u00e1 una redirecci\u00f3n despu\u00e9s del comentario se publica con el fin de evitar dobles presentaciones. Recomendado."
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "\u00bfEnviar notificaci\u00f3n por correo electr\u00f3nico cuando hay spam?"
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Cuando se activa, ProcessWire todav\u00eda le enviar\u00e1 una notificaci\u00f3n por correo electr\u00f3nico, incluso si el mensaje es identificado como spam."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Desactivado"
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G: Adecuado para su visualizaci\u00f3n en todos los sitios web con cualquier tipo de p\u00fablico."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG: Puede contener gestos groseros, personas vestidas provocativamente, el menor malas palabras, o violencia moderada."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R: Puede contener cosas como malas palabras duras, violencia intensa, desnudos, o el uso de drogas duras."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X: Puede contener im\u00e1genes sexuales de hardcore o violencia muy preocupante."
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "\u00bfUtilizar Gravatar?"
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Este servicio ofrece una imagen de avatar con cada comentario (exclusivo a la direcci\u00f3n de correo electr\u00f3nico). Para activarlo, seleccione la m\u00e1xima calificaci\u00f3n gravatar. Estas son las mismas que las clasificaciones de pel\u00edculas, donde G es la m\u00e1s familiar y X no lo es."
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Descripciones proporcionadas por Gravatar."
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "\u00bfUsar el servicio Anti-Spam de Akismet?"
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "Este servicio identificar\u00e1 autom\u00e1ticamente la mayor\u00eda del spam. Antes de utilizarlo, aseg\u00farese de que ha introducido una clave de API de Akismet bajo M\u00f3dulos > Filtro de Comentarios: Akismet."
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "N\u00famero de d\u00edas despu\u00e9s de que eliminar el spam"
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Despu\u00e9s de que el n\u00famero de d\u00edas indicado, correo no deseado se eliminar\u00e1 autom\u00e1ticamente."
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Comentarios"
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "El campo que almacena el usuario ha escrito comentarios de una sola p\u00e1gina"
+        },
+        "bbdc0889960bd1af9368ef6a4ba299f2": {
+            "text": "ProcessWire"
+        },
+        "61d8be701930d3db7ca0e8d32d041ab6": {
+            "text": "processwire"
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "P\u00e1gina"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "Desde"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "E-mail"
+        },
+        "4df6dabe367988d938bbf565bbcdbe43": {
+            "text": "Sitio web"
+        },
+        "5be3f30f5db8303d4baac9920be07c45": {
+            "text": "Estado"
+        },
+        "15ede22296b59c623fa73c28c6dbe629": {
+            "text": "Texto"
+        },
+        "b39a035a995fc6597c8eb942210d1527": {
+            "text": "Comportamiento"
+        },
+        "c98106d2a3b2a0a14016f73894f59d10": {
+            "text": "Moderaci\u00f3n de comentarios"
+        },
+        "18800239150e923984ade45f5e961fbd": {
+            "text": "Esto determina cuando un comentario nuevo se mostrar\u00e1 en el sitio."
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "\u00bfGuardado silencioso?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Cuando esta activo, se mantendr\u00e1 la fecha de \u00faltima modificaci\u00f3n y qui\u00e9n modific\u00f3 la p\u00e1gina cuando se a\u00f1ada un nuevo comentario."
+        },
+        "152cae5f743b4ea655ef70fab6684593": {
+            "text": "Tipo de Notificaci\u00f3n"
+        },
+        "1df95d9b624496ecb2f4158676c98825": {
+            "text": "No enviar notificaciones"
+        },
+        "eac16a1e6e640d0fd649262cc154287d": {
+            "text": "Enviar notificaciones a un email espec\u00edfico"
+        },
+        "56c6193a67167dcdd8befdc1cf3f7958": {
+            "text": "Enviar las notificaciones al usuario que ha creado la p\u00e1gina"
+        },
+        "176686fd5ea38cce85007c58bc91861a": {
+            "text": "Enviar las notificaciones a un usuario espec\u00edfico"
+        },
+        "a274f4d4670213a9045ce258c6c56b80": {
+            "text": "Notificaciones"
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "E-mail de notificaci\u00f3n para el Administrador."
+        },
+        "f895a3cb718c7d7cacdf08e19c72a19b": {
+            "text": "Direcci\u00f3n de E-mail para notificar sobre un nuevo comentario. Se debe separar los correos con comas o espacios."
+        },
+        "e793b132f67e3437dae254ad00e2cc48": {
+            "text": "Los usuarios que reciban este correo tienen la habilidad de aprobar o betar posteos directamente desde los enlaces en el E-mail."
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "Correo Basura (Spam)"
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Salida"
+        },
+        "9e6530a34353d7610fd5455767b28df4": {
+            "text": "Profundidad de la Respuesta"
+        },
+        "b3dc4b8696a26f0852afc3df1785ce24": {
+            "text": "Formato de Fecha\/hora (para listas de comentarios)"
+        },
+        "9fbc91b8ace5ac4afdc754d6d81d1f28": {
+            "text": "\u00bfPermitir valoraci\u00f3n de comentarios?"
+        },
+        "2d020e5cbf014a734c83323e430afce0": {
+            "text": "Votaci\u00f3n desactivada"
+        },
+        "e344d6ca196c888a521047effab607b3": {
+            "text": "Permitir votar hacia arriba"
+        },
+        "3404fab8f99ccde53b123699711e6b6c": {
+            "text": "Permitir votar hacia arriba y hacia abajo"
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "\u00bfUsar sistema de estrellas?"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "S\u00ed (sistema de estrellas opcional)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "S\u00ed (sistema de estrellas obligatorio)"
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Formateadores de Texto"
+        },
+        "b672f52ade975e864ae6b58722c03689": {
+            "text": "Implementaci\u00f3n"
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "C\u00f3digo PHP para generar el c\u00f3digo de comentarios."
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "C\u00f3digo CSS al generar el c\u00f3digo de comentarios en el front-end"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "C\u00f3digo Javascript al generar el c\u00f3digo de comentarios en el front-end"
+        },
+        "cf5bd74bd24d341a63cdcf36fba20dbb": {
+            "text": "Ya haz votado este comentario"
+        },
+        "511c09f7e853bcc074d29ba36a8da7f7": {
+            "text": "Hubo un error al guardar el voto"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Deshabilitado"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "El sistema de valoraci\u00f3n por estrellas permite al comentarista valorar el asunto que est\u00e1n comentando, usando una escala de 1 a 5 estrellas."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "Para cambiar la imagen de estrella usada al generar el c\u00f3digo (HTML est\u00e1 permitido):"
+        },
+        "abf48974ca61ec74f073f2359c29da03": {
+            "text": "Adicionalmente (o env\u00e9s de) una cuenta de email, puedes usar uno o m\u00e1s de las siguientes opciones:"
+        },
+        "d0ffa91c19a6c97eac905834065a48a4": {
+            "text": "1. Ingresar **user:karen** para enviar un correo a un usuario espec\u00edfico, reemplazando \"karen\" por el nombre del usuario."
+        },
+        "e703c4cbaf0b1030f389f7a3f4c91f34": {
+            "text": "2. Ingresar **field:email** para obtener el correo desde un campo en la p\u00e1gina, reemplazando \"email\" en el nombre del campo que contiene una direcci\u00f3n de correo."
+        },
+        "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
+            "text": "3. Ingresar **123:email** para obtener el correo de una ID de p\u00e1gina y un nombre de un campo, reemplazando \"123\" con la ID de p\u00e1gina y \"email\" con el nombre del campo que contiene una direcci\u00f3n de correo."
+        },
+        "be4676f05d7147b99e5addd2b27b6889": {
+            "text": "4. Ingresar **\/ruta\/a\/p\u00e1gina:email\" para obtener el correo de una ruta a una p\u00e1gina y un nombre del campo, reemplazando \"\/ruta\/a\/p\u00e1gina\" con la ruta de una p\u00e1gina y \"email\" con el nombre de un campo que contiene una direcci\u00f3n de correo."
+        },
+        "f6fdd0b4b152fc4fb6fa144eb7718873": {
+            "text": "Notificaciones por E-mail."
+        },
+        "a5356041796dfb51e1131f9557cf7225": {
+            "text": "Direcciones de E-mail opcionales que ser\u00e1n usadas para enviar los correos. Dejar vac\u00edas para usar la direcci\u00f3n predeterminadas del servidor de correos."
+        },
+        "031de71d8bede5de985c354bbd23cdc6": {
+            "text": "\u00bfPermitir notificaciones por e-mail a los comentaristas?"
+        },
+        "dc8c7869896eed885ca7b7cc73de8e0a": {
+            "text": "\u00c9sta opcion permite a cualquier que escriba un comentario a recibir notificaciones sobre nuevos comentarios."
+        },
+        "0ad051f48ed2ca988a4b60689eb13ad5": {
+            "text": "Los usuarios solamente pueden recibir notificaciones por e-mail de las respuestas a sus propios comentarios"
+        },
+        "4795eaf7300ae848d67ca8c64cfa357f": {
+            "text": "Los usuarios pueden recibir notificaciones por e-mail de todos los nuevos comentarios en la p\u00e1gina"
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "\u00c9sta secci\u00f3n esta para ayudar a mostrar los comentarios en el front-end del sitio. Todo lo ingresado ac\u00e1 es opcional."
+        },
+        "c0cf19f012781de14679b0d857fe4cbd": {
+            "text": "Si se usa un cach\u00e9, se debe configurar para omitir el cach\u00e9 cuando la variable \"comment_success\" est\u00e1 presente al llamar a la p\u00e1gina por GET."
+        },
+        "1f33bbe656fa140ce52347fb0af13a18": {
+            "text": "Ingresa 0 para comentarios planos ordenados cronol\u00f3gicamente. Para comentarios con hilos (respuestas aparecen debajo del comentario al que responden) ingresa la profundidad m\u00e1xima para las respuestas (recomendado de 0 a 4)."
+        },
+        "ea706988dcb6ea169518eb97da49df9d": {
+            "text": "Ingresa el formato de fecha\/hora que deseas que use la lista de comentarios predeterminada. Puede ser el formato usado por las funciones PHP [date](http:\/\/php.net\/manual\/en\/function.date.php) o [strftime](http:\/\/php.net\/manual\/en\/function.strftime.php). Tambi\u00e9n puede ser un formato de fechas \"relativo\"."
+        },
+        "3ffa920a9c00477904f187e62f9d8582": {
+            "text": "El sistema de votaci\u00f3n para comentarios permite a los visitantes subir y\/o bajar los comentarios. El conteo de votos son mostrados a continuaci\u00f3n de cada comentario. Solamente un voto hacia arriba y\/o hacia abajo es permitido por comentario, para la misma direcci\u00f3n IP y hora."
+        },
+        "53a682f62e65f496a659d3a12c754f75": {
+            "text": "Opcionalmente selecciona uno o m\u00e1s formateadores de texto para ser aplicados al texto de los comentarios, en el \u00f3rden seleccionado. Si selecciones ninguno entonces el texto ser\u00e1 formateado con Entity Encoder, las l\u00edneas de retorno de carro ser\u00e1n convertidas en etiquetas <br> y el texto estar\u00e1 dentro de una etiqueta <p>."
+        },
+        "81958f1863ae9ebb74b7a23cbf0dbd78": {
+            "text": "Alerta: s\u00f3lo seleccione los formateadores de texto que son seguros para ingreso por an\u00f3nimos, como Entity Encoder (core) o Textile Restricted (por terceros). Si no est\u00e1s seguro, entonces selecciona nada, por que elegir la opci\u00f3n equivocada puede causar un problema de seguridad."
+        }
+    }
+}

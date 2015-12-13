@@ -1,0 +1,21 @@
+{
+    "file": "wire\/core\/Fields.php",
+    "textdomain": "wire--core--fields-php",
+    "translations": {
+        "af612cfedc5c2ba10ff82e4ccf69e936": {
+            "text": "Borrado el campo \"%s\" y los datos de %d p\u00e1ginas."
+        },
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "p\u00e1gina-por-p\u00e1gina"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "consulta-\u00fanica"
+        },
+        "0c6ba1befbcac7213ccc923d1ecf573a": {
+            "text": "La informaci\u00f3n del campo \"%1$s\" en %2$d fila(s) de %3$d p\u00e1gina(s) ha sido eliminada."
+        },
+        "b9e9528a32781ceaefec638ec3bfa62e": {
+            "text": "Hubo un error al eliminar la informaci\u00f3n del campo \"%1$s\", %2$d fila(s), %3$d p\u00e1gina(s)."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "T\u00edtulo del m\u00f3dulo"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Sumario del m\u00f3dulo"
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Limpiado %d de archivos cach\u00e9 para %d p\u00e1ginas"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "\u00bfLimpiar la cach\u00e9?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Hay actualmente %d p\u00e1ginas usando cach\u00e9 en %s"
+        },
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "P\u00e1gina de cache expir\u00f3 para todo el sitio"
+        },
+        "b091c65f589c970f6084669796efb995": {
+            "text": "Limpiado el archivo cach\u00e9: %s"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Limpiado el cach\u00e9:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "Limpiado el cach\u00e9 para %d p\u00e1gina(s)"
+        }
+    }
+}
